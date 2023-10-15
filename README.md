@@ -1,4 +1,4 @@
-# local_manifest
+# Local manifest
 Just grab the manifest and sync to get device sources
 
 ```bash
