@@ -6,7 +6,7 @@
            revision="lineage-20.0"/>
 
  <!-- Device Tree -->
-  <project path="device/micromax/yogurt" name="android_device_micromax_yogurt" remote="vk401426"/>
+  <project path="device/micromax/yogurt" name="android_device_micromax_yogurt" remote="vk401426" revision="risingos-13.0"/>
  
  <!-- Kernel -->
   <project path="kernel/micromax/yogurt" name="yogurt" remote="vk401426" revision="android-13.0"/>
