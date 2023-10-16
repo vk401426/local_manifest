@@ -4,7 +4,7 @@ Just grab the manifest and sync to get device sources
 
 ```bash
 curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/vk401426/local_manifest/risingos/thirteen.xml --create-dirs
-
+'''
 
 
 This guide provides instructions on building Android Open Source Project rising for yogurt.
